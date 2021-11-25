@@ -6,6 +6,8 @@ This is a *Finance tracker* social media application in Ruby on Rails.
 
 * Rails version: 6.1.4.1
 
+Check the application here: https://finance-tracker-40651.herokuapp.com/
+
 TODO:
 
 * Add refresh prices button or refresh prices in real time
