@@ -8,11 +8,11 @@ This is a *Finance tracker* social media application in Ruby on Rails.
 
 Check the application here: https://finance-tracker-40651.herokuapp.com/
 
-TODO:
+What will be added next:
 
-* Add refresh prices button or refresh prices in real time
-* Add a (tracked) stocks newsfeed using an API
-* Add a page for crypto (same as you have for stocks)
-* Change user profile and add photo and more details
-* Add a page for every stock and crypto and watch the price in real time
-* Add buy/sell buttons for stocks
+* refresh prices button or refresh prices in real time
+* newsfeed (using an API) for tracked stocks 
+* new page for cryptocurrencies (same as stocks page)
+* settings for user profile to add and change photo and add more details
+* new page for every tracked stock and cryptocurrency where the price is displayed in real time
+* buy/sell buttons for stocks and cryptocurrencies
